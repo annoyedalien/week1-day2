@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Variables
-RESOURCE_GROUP="Day2RG"
-LOCATION="southeastasia"
-SERVICE_BUS_NAMESPACE="nbagamestoday"
-TOPIC_NAME="nbagamestoday"
-SUBSCRIPTION_NAME="nba"
+RESOURCE_GROUP="Resource_Group_Name"
+LOCATION="Region"
+SERVICE_BUS_NAMESPACE="Service_bus_Namespace"
+TOPIC_NAME="Service_Bus_Topic_Name"
+SUBSCRIPTION_NAME="Service_Bus_Topic_Subscription_Name"
 
 
 # Create a resource group
